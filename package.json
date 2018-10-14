@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "develop": "cross-env NODE_PATH=src gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "gatsby": "^2.0.0",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "styled-components": "^4.0.0-beta.11.3"
+  }
+}
